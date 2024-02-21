@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Szoftver tesztautomatizáló mernök
+role: Szoftver tesztautomatizáló mérnök
 
 # Organizations/Affiliations to show in About widget
 organizations:
