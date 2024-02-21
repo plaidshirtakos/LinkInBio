@@ -23,7 +23,7 @@ sections:
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
         - text: Hobbi - drón
-          icon: drone
+          icon: circle-check-solid
           url: https://aka91hu.github.io/dronephoto/Fly-as-usual.html
 
 ---
