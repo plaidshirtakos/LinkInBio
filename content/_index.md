@@ -22,6 +22,9 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
+        - text: Blog
+          icon: blog
+          url: https://anaploka.blogspot.com/
         - text: Hobbi - drón
           icon: circle-check-solid
           url: https://aka91hu.github.io/dronephoto/Fly-as-usual.html
