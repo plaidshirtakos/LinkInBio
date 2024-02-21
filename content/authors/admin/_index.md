@@ -40,7 +40,7 @@ profiles:
   - icon: strava-icon
     url: https://www.strava.com/athletes/98012356
   - icon: at-symbol
-    url: plaidshirtakos@gmail.com
+    url: 'mailto:plaidshirtakos@gmail.com'
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
