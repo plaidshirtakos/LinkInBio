@@ -3,7 +3,7 @@
 title:
 
 # Name pronunciation (optional)
-name_pronunciation: Akos Kovacs
+name_pronunciation: Kovács Ákos
 
 # Full name (for SEO)
 first_name: Ákos
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Test automation engineer
+role: Szoftver tesztautomatizáló mernök
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,9 +27,8 @@ organizations:
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: plaidshirtakos@gmail.com
-    label: E-mail Me
+  - icon: brands/linkedin
+    url: https://akoskovacs.hu
   - icon: brands/x
     url: https://twitter.com/akoskodas
   - icon: brands/instagram
@@ -38,10 +37,10 @@ profiles:
     url: https://www.facebook.com/ak911027
   - icon: brands/youtube
     url: https://www.youtube.com/@akovacsa91
-  - icon: brands/strava
+  - icon: strava-icon
     url: https://www.strava.com/athletes/98012356
-  - icon: brands/linkedin
-    url: https://akoskovacs.hu
+  - icon: at-symbol
+    url: plaidshirtakos@gmail.com
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
