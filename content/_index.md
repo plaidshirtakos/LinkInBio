@@ -26,7 +26,7 @@ sections:
           icon: hero/pencil
           url: https://anaploka.blogspot.com/
         - text: Hobbi - drón
-          icon: brands/strava-icon
+          icon: custom/drone
           url: https://aka91hu.github.io/dronephoto/Fly-as-usual.html
 
 ---
