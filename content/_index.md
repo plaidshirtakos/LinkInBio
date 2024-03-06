@@ -28,5 +28,7 @@ sections:
         - text: Hobbi - drón
           icon: custom/drone
           url: https://aka91hu.github.io/dronephoto/Fly-as-usual.html
-
+        - text: Veloviewer
+          icon: brands/strava-icon
+          url: https://veloviewer.com/athlete/98012356/
 ---
