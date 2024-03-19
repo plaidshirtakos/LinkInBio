@@ -37,7 +37,7 @@ profiles:
     url: https://www.facebook.com/ak911027
   - icon: brands/youtube
     url: https://www.youtube.com/@akovacsa91
-  - icon: hero/eye
+  - icon: hero/presentation-chart-bar
     url: https://www.strava.com/athletes/98012356
   - icon: at-symbol
     url: 'mailto:plaidshirtakos@gmail.com'
