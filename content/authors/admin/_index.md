@@ -41,8 +41,10 @@ profiles:
     url: https://www.strava.com/athletes/98012356
   - icon: at-symbol
     url: 'mailto:plaidshirtakos@gmail.com'
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
+    url: uploads/kovacsakos_cv_HU.pdf
+    label: Töltsd le az önéletrajzomat!
+  - icon: hero/arrow-down-tray
+    url: uploads/kovacsakos_cv_EN.pdf
+    label: Download my resume!
 ---
