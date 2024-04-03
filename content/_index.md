@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2024-01-01
 type: landing
 
 design:
@@ -26,9 +26,9 @@ sections:
           icon: hero/pencil
           url: https://anaploka.blogspot.com/
         - text: Hobbi - drón
-          icon: custom/drone
+          icon: hero/video-camera
           url: https://aka91hu.github.io/dronephoto/Fly-as-usual.html
-        - text: Veloviewer
-          icon: brands/strava-icon
+        - text: VeloViewer
+          icon: hero/forward
           url: https://veloviewer.com/athlete/98012356/
 ---
