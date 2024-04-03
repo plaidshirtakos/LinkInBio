@@ -13,9 +13,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo link in bio theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'Kovács Ákos'
+    description: 'Kovács Ákos weboldala'
+    twitter: 'akoskodas'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,7 +35,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me'
+    notice: ''
 
 # Localization
 locale:
