@@ -37,14 +37,16 @@ profiles:
     url: https://www.facebook.com/ak911027
   - icon: brands/youtube
     url: https://www.youtube.com/@akovacsa91
-  - icon: hero/presentation-chart-bar
+  - icon: hero/information-circle
     url: https://www.strava.com/athletes/98012356
+  - icon: hero/chart-bar-square
+    url: https://statshunters.com/share/0e75075b2d63
   - icon: at-symbol
-    url: 'mailto:plaidshirtakos@gmail.com'
+    url: 'mailto:ak91mail@gmail.com'
   - icon: academicons/cv
     url: uploads/kovacsakos_cv_HU.pdf
     label: Töltsd le az önéletrajzomat!
-  - icon: hero/arrow-down-tray
+  - icon: academicons/cv
     url: uploads/kovacsakos_cv_EN.pdf
     label: Download my resume!
 ---
