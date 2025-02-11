@@ -1,13 +1,13 @@
 ---
 title: 'Home'
-date: 2024-01-01
+date: 2025-01-01
 type: landing
 
 design:
   background:
     image:
       # Add your image background to `assets/media/`.
-      filename: bg-hue.svg
+      filename: background-image-particle-strokes.svg
 
 sections:
   - block: biography
@@ -28,7 +28,4 @@ sections:
         - text: Hobbi - drón
           icon: hero/video-camera
           url: https://aka91hu.github.io/dronephoto/Fly-as-usual.html
-        - text: VeloViewer
-          icon: hero/forward
-          url: https://veloviewer.com/athlete/98012356/
 ---
